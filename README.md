@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexsarrell
-- 👀 I’m interested in Unity/C# development, Web-layout 
-- 🌱 I’m currently learning C++ dev
+- 👀 I’m interested in Java development, Web-layout 
+- 🌱 I’m currently learning C# dev
 - 💞️ I’m looking to collaborate on something fun things
 - 📫 How to reach me: my work mail is alexsarrell.workspace@gmail.com
 
