@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexsarrell
-- 👀 I’m interested in Java development, Web-layout 
-- 🌱 I’m currently learning Kotlin dev
+- 👀 I’m working in Java/Kotlin development
+- 🌱 I’m currently learning Haskell dev
 - 💞️ I’m looking to collaborate on something fun things
 - 📫 How to reach me: my work mail is alexsarrell.workspace@gmail.com
 
